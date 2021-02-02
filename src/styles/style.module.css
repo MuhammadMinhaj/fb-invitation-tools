@@ -1,0 +1,10 @@
+.login__container {
+    height: 500px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.login__container .card {
+    display: flex;
+    justify-content: center;
+}
